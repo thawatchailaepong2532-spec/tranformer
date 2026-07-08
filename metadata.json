@@ -1,0 +1,7 @@
+{
+  "name": "ระบบรายงานผลการตรวจสอบหม้อแปลงไฟฟ้า",
+  "description": "ระบบบันทึกและจัดการรายงานผลการตรวจสอบหม้อแปลงไฟฟ้า พร้อมพิกัด GPS รูปถ่ายหน้างาน และระบบค้นหา/ส่งออกข้อมูล",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
